@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m studying at The Plovdiv Branch of Sofia Technical University<br>- 📚 I'm currently learning Python and C<br>- ⚡ In my free time I like to improve my skills</p>
+<p align="left">- 🔭 I’m studying at Technical University - Plovdiv<br>- 📚 I'm currently learning Python and C<br>- ⚡ In my free time I like to improve my skills</p>
 
 ###
 
